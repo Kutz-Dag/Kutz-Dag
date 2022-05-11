@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kutz-Dag
 - // full name is Kutbudien, but call me Kutz //
 - 👀 I’m interested in programming for sure! 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript. My goal is to achieve full-stack development.
+- 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me ...
 
 <!---
