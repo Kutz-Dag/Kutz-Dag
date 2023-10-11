@@ -6,12 +6,12 @@ My goal is to achieve **full-stack development**.
 
 ## What do I already know?
 
-HTML
+HTML:
 ```HTML
 <p>I know HTML</p>
 ```
 
-CSS
+CSS:
 ```CSS
 p {
   color: red;
@@ -19,7 +19,7 @@ p {
   }
 ```
 
-JavaScript
+JavaScript:
 ```JavaScript
 let something = "This is something and" + x;
 ```
@@ -36,10 +36,12 @@ let something = "This is something and" + x;
 <!-- I am planning to add as much as possible to the list above -->
 ```
 
+
 > I am currently busy with React.js
 So far, this is my progress:
 - [x] I understand the basics
 - [x] I have created a project with it
+- [ ] I have created many projects with it
 - [ ] I have mastered it
 
 I’m looking to collaborate on programming projects. <!-- in the future, obviously --->
