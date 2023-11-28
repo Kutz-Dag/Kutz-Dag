@@ -29,8 +29,8 @@ let something = "This is something and" + x;
 * jQuery
 * SASS
 * ES6, HTML5, CSS3, etc.
-* Git
 * React and Redux
+
 
 ```HTML
 <!-- I am planning to add as much as possible to the list above -->
@@ -41,10 +41,16 @@ let something = "This is something and" + x;
 So far, this is my progress:
 - [x] I understand the basics
 - [x] I have created a project with it
-- [ ] I have created many projects with it
-- [ ] I have mastered it
+- [x] I have created many projects with it
 
-I’m looking to collaborate on programming projects. <!-- in the future, obviously --->
+*And now after a while, I can add these to the list*
+* Git
+* Shell/Bash Scripting
+* SQL
+* PostgreSQL
+* Docker
+
+// I’m looking to collaborate on programming projects. <!-- in the future, obviously --->
 
 <!---
 Kutz-Dag/Kutz-Dag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
