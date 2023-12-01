@@ -3,7 +3,7 @@
 ## Current Goals
 
 My goal is to achieve **full-stack development**.
-I am currently a junior frontend developer. 
+I am currently a Junior Front-End Developer. 
 
 ## What do I already know?
 
@@ -54,7 +54,7 @@ So far, this is my progress:
 // I’m looking to collaborate on programming projects. <!-- in the future, obviously --->
 
 ### CodePen page
-This link will take you to my [CodePen page](https://codepen.io/kutzz)
+This link will take you to my [CodePen page](https://codepen.io/kutzz).
 
 <!---
 Kutz-Dag/Kutz-Dag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
