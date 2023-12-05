@@ -55,8 +55,6 @@ So far, this is my progress:
 
 ### CodePen page
 This link will take you to my [CodePen page](https://codepen.io/kutzz).
-
-![CodePen Logo](https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_logo_icon_169360.png)
 <!---
 Kutz-Dag/Kutz-Dag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. I am not used to GitHub by the way. I really hope to find a place where I can learn how to use it better.
