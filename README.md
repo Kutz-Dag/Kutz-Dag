@@ -44,7 +44,7 @@ So far, this is my progress:
 - [x] I have created a project with it
 - [x] I have created many projects with it
 
-*And now after a while, I can add these to the list*
+*And now after a while, I can add these to the list:*
 * Git
 * Shell/Bash Scripting
 * SQL
