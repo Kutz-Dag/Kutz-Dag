@@ -55,6 +55,7 @@ So far, this is my progress:
 
 ### CodePen page
 This link will take you to my [CodePen page](https://codepen.io/kutzz).
+Majority of my projects that I submitted to freeCodeCamp is hosted on CodePen
 <!---
 Kutz-Dag/Kutz-Dag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. I am not used to GitHub by the way. I really hope to find a place where I can learn how to use it better.
