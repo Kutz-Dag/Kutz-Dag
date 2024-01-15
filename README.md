@@ -15,14 +15,13 @@ HTML:
 CSS:
 ```CSS
 p {
-  color: red;
-  margin: 0 auto;
+  text: "I know CSS";
   }
 ```
 
 JavaScript:
 ```JavaScript
-let something = "This is something and" + x;
+let yodaText = "JavaScript, I know";
 ```
 
 *I am also familiar with:*
