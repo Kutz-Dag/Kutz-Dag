@@ -3,7 +3,7 @@
 ## Current Goals
 
 My goal is to achieve **full-stack development**.
-I am currently a Junior Front-End Developer. 
+I am currently a Front-End Developer. 
 
 ## What do I already know?
 
