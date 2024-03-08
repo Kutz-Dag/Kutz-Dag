@@ -49,6 +49,9 @@ So far, this is my progress:
 * SQL
 * PostgreSQL
 * Docker
+* Node.js
+* MongoDB
+* Mongoose
 
 // I’m looking to collaborate on programming projects. <!-- in the future, obviously --->
 
