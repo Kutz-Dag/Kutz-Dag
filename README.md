@@ -1,4 +1,4 @@
-👋 Hi, I’m @Kutz-Dag
+👋 Hi, I’m Kutz
 <!-- full name is Kutbudien, but call me Kutz --->
 ## Current Goals
 
