@@ -1,4 +1,4 @@
-![Hi there!](https://github.com/Kutz-Dag/Kutz-Dag/blob/main/ASSETS/Hi%20there%2C%20img.mp4)
+![Hi there!](https://raw.githubusercontent.com/Kutz-Dag/Kutz-Dag/main/ASSETS/Hi%20there%2C%20img.mp4)
 <!-- full name is Kutbudien, but call me Kutz --->
 ## Current Goals
 
