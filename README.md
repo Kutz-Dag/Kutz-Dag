@@ -1,4 +1,5 @@
-![Hi there!](https://raw.githubusercontent.com/Kutz-Dag/Kutz-Dag/main/ASSETS/Hi%20there%2C%20img.mp4)
+https://github.com/Kutz-Dag/Kutz-Dag/assets/100941428/a448648c-f083-4189-aa00-7af9390d306b
+
 <!-- full name is Kutbudien, but call me Kutz --->
 ## Current Goals
 
