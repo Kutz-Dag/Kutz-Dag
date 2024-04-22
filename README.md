@@ -1,4 +1,4 @@
-https://github.com/Kutz-Dag/Kutz-Dag/assets/100941428/a448648c-f083-4189-aa00-7af9390d306b
+![Hi there!](https://github.com/Kutz-Dag/Kutz-Dag/assets/100941428/969c6054-ec70-41c2-bd14-a38440405e44)
 
 <!-- full name is Kutbudien, but call me Kutz --->
 ## Current Goals
