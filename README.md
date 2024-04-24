@@ -1,4 +1,6 @@
-<img src="https://github.com/Kutz-Dag/Kutz-Dag/assets/100941428/3d613cff-bb89-43e5-88b8-68d9f6e2d375" width="250" height="250"/>
+<p align="center">
+ <img src="https://github.com/Kutz-Dag/Kutz-Dag/assets/100941428/3d613cff-bb89-43e5-88b8-68d9f6e2d375" width="250" height="250"/> 
+</p>
 
 <!-- full name is Kutbudien, but call me Kutz --->
 ## Current Goals
