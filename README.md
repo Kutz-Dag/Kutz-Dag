@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/Kutz-Dag/Kutz-Dag/assets/100941428/adf86281-b033-46ac-b16f-510586b0685d" width="250" height="250"/> 
+ <img src="https://github.com/Kutz-Dag/Kutz-Dag/assets/100941428/adf86281-b033-46ac-b16f-510586b0685d" width="450" height="250"/> 
 </p>
 
 <!-- full name is Kutbudien, but call me Kutz --->
