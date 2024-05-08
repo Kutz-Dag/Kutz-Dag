@@ -10,18 +10,38 @@ I am currently a Front-End Developer.
 
 ## What do I already know?
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+HTML
+CSS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+Bash Scripting
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+### Frontend Development
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+D3.js
+Bootstrap
+jQuery
+SASS
+AJAX
+JSON
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+Express.js
+MongoDB
+Mongoose
+
+### Database and Version Control
+
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+PostgreSQL
+MongoDB
+Git
+GitHub
 
 ### Frontend Projects
 
