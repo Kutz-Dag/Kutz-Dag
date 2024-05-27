@@ -12,7 +12,7 @@ I am currently a Front-End Developer.
 
 ### Programming Languages
 
-HTML
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 CSS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 Bash Scripting
