@@ -21,7 +21,7 @@ I am currently a Front-End Developer.
 ### Frontend Development
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-D3.js
+![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
 Bootstrap
 jQuery
 SASS
