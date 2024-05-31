@@ -16,7 +16,7 @@ I am currently a Front-End Developer.
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Bash Scripting](https://img.shields.io/badge/-bash-000?&logo=bash)
+![Bash Scripting](https://img.shields.io/badge/-shell-000?&logo=shell)
 
 ### Frontend Development
 
