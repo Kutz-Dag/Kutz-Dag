@@ -16,13 +16,13 @@ I am currently a Front-End Developer.
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-[![Bash-Scripting](https://img.shields.io/badge/-bash-000?&logo=bash-shell)
+![Bash-Scripting](https://img.shields.io/badge/-bash-000?&logo=bash-shell)
 
 ### Frontend Development
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
-Bootstrap
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 jQuery
 SASS
 AJAX
