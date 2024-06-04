@@ -24,9 +24,9 @@ I am currently a Front-End Developer.
 ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
-SASS
-AJAX
-JSON
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
+![AJAX](https://img.shields.io/badge/-AJAX-000?&logo=ajax)
+![JSON](https://img.shields.io/badge/-JSON-000?&logo=json)
 
 ### Backend Development
 
