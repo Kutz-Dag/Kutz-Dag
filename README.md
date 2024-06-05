@@ -31,7 +31,7 @@ I am currently a Front-End Developer.
 ### Backend Development
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-Express.js
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express.js)
 MongoDB
 Mongoose
 
