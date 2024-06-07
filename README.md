@@ -33,7 +33,7 @@ I am currently a Front-End Developer.
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-Mongoose
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=mongoose)
 
 ### Database and Version Control
 
