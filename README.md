@@ -38,10 +38,9 @@ I am currently a Front-End Developer.
 ### Database and Version Control
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-PostgreSQL
-MongoDB
-Git
-GitHub
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
 ### Frontend Projects
 
