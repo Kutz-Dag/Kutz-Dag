@@ -15,7 +15,7 @@ I am currently a Front-End Developer.
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mySQL)
 ![Bash-Scripting](https://img.shields.io/badge/-bash-000?&logo=bash)
 
 ### Frontend Development
@@ -51,7 +51,7 @@ I am currently a Front-End Developer.
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](#)
 
 ### CodePen page
-This link will take you to my [CodePen page](https://codepen.io/kutzz).
+This link will take you to my [CodePen page](https://codepen.io/kutzz). ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 Majority of my projects that I submitted to freeCodeCamp is hosted on CodePen
 <!---
 Kutz-Dag/Kutz-Dag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
