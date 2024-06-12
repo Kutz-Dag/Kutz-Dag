@@ -51,7 +51,10 @@ I am currently a Front-End Developer.
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](#)
 
 ### CodePen page
-This link will take you to my [CodePen page](https://codepen.io/kutzz). ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+This link will take you to my [CodePen page](https://codepen.io/kutzz). 
 Majority of my projects that I submitted to freeCodeCamp is hosted on CodePen
 <!---
 Kutz-Dag/Kutz-Dag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
