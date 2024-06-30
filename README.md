@@ -42,7 +42,7 @@ I am currently a Front-End Developer.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
-### Database and Version Control
+### Testing Frameworks:
 
 ![Chai](https://img.shields.io/badge/-Chai-000?&logo=chai)
 
