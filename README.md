@@ -45,6 +45,7 @@ I am currently a Front-End Developer.
 ### Testing Frameworks:
 
 ![Chai](https://img.shields.io/badge/-Chai-000?&logo=chai)
+![Mocha](https://img.shields.io/badge/-Mocha-000?&logo=mocha)
 
 ### Frontend Projects
 
