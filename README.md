@@ -57,12 +57,12 @@ I am currently a Front-End Developer.
 
 ### CodePen page
 
+Some of the frontend projects that I submitted to freeCodeCamp are hosted on CodePen
 This link will take you to my Codepen Page:
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kutzz)
 
-A few of my frontend projects that I submitted to freeCodeCamp are hosted on CodePen
 <!---
 Kutz-Dag/Kutz-Dag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. I am not used to GitHub by the way. I really hope to find a place where I can learn how to use it better.
+You can click the Preview link to take a look at your changes. I am not used to GitHub by the way. I hope to find a place where I can learn how to use it better.
 --->
