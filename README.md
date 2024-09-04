@@ -17,6 +17,7 @@ I am currently a Front-End Developer.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mySQL)
 ![Bash-Scripting](https://img.shields.io/badge/-bash-000?&logo=bash)
+![Python](https://img.shields.io/badge/-python-000?&logo=python)
 
 ### Frontend Development
 
@@ -27,6 +28,7 @@ I am currently a Front-End Developer.
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
 ![AJAX](https://img.shields.io/badge/-AJAX-000?&logo=ajax)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json)
+![Python](https://img.shields.io/badge/-python-000?&logo=python)
 
 ### Backend Development
 
@@ -34,6 +36,7 @@ I am currently a Front-End Developer.
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=mongoose)
+![Python](https://img.shields.io/badge/-python-000?&logo=python)
 
 ### Database and Version Control
 
