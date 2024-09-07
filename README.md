@@ -50,13 +50,17 @@ I am currently a Front-End Developer.
 ![Chai](https://img.shields.io/badge/-Chai-000?&logo=chai)
 ![Mocha](https://img.shields.io/badge/-Mocha-000?&logo=mocha)
 
-### Frontend Projects
+<br />
+
+### Frontend Projects (loading...)
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](#)
 
-### Backend Projects
+### Backend Projects (loading...)
 
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](#)
+
+<br />
 
 ### CodePen page
 
