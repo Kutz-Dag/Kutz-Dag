@@ -8,8 +8,6 @@
 My goal is to achieve **full-stack development**.
 I am currently a Front-End Developer. 
 
-## What do I already know?
-
 ### Programming Languages
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
@@ -52,20 +50,9 @@ I am currently a Front-End Developer.
 
 <br />
 
-### Frontend Projects (loading...)
-
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](#)
-
-### Backend Projects (loading...)
-
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](#)
-
-<br />
-
 ### CodePen page
 
-Some of the frontend projects that I submitted to freeCodeCamp are hosted on CodePen
-This link will take you to my Codepen Page:
+Some of the frontend projects that I submitted to freeCodeCamp are hosted on CodePen. This link will take you to my Codepen Page:
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kutzz)
 
